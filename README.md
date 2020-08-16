@@ -2,6 +2,11 @@
 
 ## Overview
 This simple application serves a server-rendered React application to the client. The application is made up of only a single component, but has full interactivity.
+It supports responsiveness.
+Filtering is acheived though maintaing state using useState hook.
+
+Note: Routing is not implemented in this app.
+
 
 ## Usage
 To preview the app, first install the necessary dependencies:
