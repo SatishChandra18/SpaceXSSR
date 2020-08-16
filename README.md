@@ -30,3 +30,7 @@ On Selecting Success from Filter:
 On Selecting Year 2018:
 ![image](https://user-images.githubusercontent.com/42578981/90336943-c3537280-dffc-11ea-8ceb-428f2b0eb89c.png)
 
+LightHouse test report:
+![image](https://user-images.githubusercontent.com/42578981/90337396-d87dd080-dfff-11ea-9712-e6b13191803e.png)
+
+
