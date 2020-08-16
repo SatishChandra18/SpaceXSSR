@@ -14,4 +14,9 @@ Then, build the client code and start the server with one step using
 
 The application should now be visible at `http:localhost:7777`."# SpaceXSSR" 
 
+On Load:
 ![image](https://user-images.githubusercontent.com/42578981/90336891-6657bc80-dffc-11ea-8457-5a2a5ab84f99.png)
+
+On Selecting Year 2018:
+![image](https://user-images.githubusercontent.com/42578981/90336943-c3537280-dffc-11ea-8ceb-428f2b0eb89c.png)
+
