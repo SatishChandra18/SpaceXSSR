@@ -1,0 +1,45 @@
+
+  body {
+    background: #0f1219;
+    text-rendering: optimizeLegibility !important;
+    -webkit-font-smoothing: antialiased !important;
+    font-family: sans-serif;
+  }
+  
+  .logo {
+    display: flex;
+    margin: 20px auto;
+  }
+
+  .heading {
+    color: white;
+    text-align: center;
+    font-size: 48px;
+    margin-bottom: 24px;
+    font-family: fantasy;
+  }
+
+  .title {
+    color: white;
+  }
+
+  .years {
+    color: white;
+    margin: 10px;
+  }
+
+  .column {
+    float: left;
+    width: 25%;
+    padding: 0 10px;
+    height: 150px;
+    margin: 10px;
+  }
+
+  @media screen and (max-width: 600px) {
+    .column {
+      width: 100%;
+      display: block;
+      margin-bottom: 20px;
+    }
+  }
