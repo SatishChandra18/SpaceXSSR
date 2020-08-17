@@ -14,7 +14,7 @@ export default function LaunchItem({
                         'text-danger': !launch_success
                     })}>{mission_name}</span>
                 </h6>
-                <p>Date: <Moment format='MMMM Do YYYY'>{launch_date_local}</Moment></p>
+                <p><Moment format='MMMM Do YYYY'>{launch_date_local}</Moment></p>
             </div>
         </div>
     )
