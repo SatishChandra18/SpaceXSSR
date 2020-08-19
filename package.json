@@ -6,7 +6,7 @@
   "scripts": {
     "build": "webpack",
     "server": "babel-node server/server",
-    "start": "node server.jsx"
+    "start": "npm run build && npm run server"
   },
   "keywords": [],
   "author": "",
