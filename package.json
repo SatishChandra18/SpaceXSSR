@@ -2,11 +2,11 @@
   "name": "react-server-rendering-demo-2020",
   "version": "1.0.0",
   "description": "",
-  "main": "server.jsx",
+  "main": "index.js",
   "scripts": {
     "build": "webpack",
     "server": "babel-node server/server",
-    "start": "node sever/server.jsx"
+    "start": "npm run build && npm run server"
   },
   "keywords": [],
   "author": "",
